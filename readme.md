@@ -6,13 +6,15 @@
 
 ## 📚 Introducción
 
-#### Dirección Nacional de Servicios Geográficos y Dirección Nacional de Información Geoespacial - Departamento de Aplicaciones Geoespaciales
+ **Dirección Nacional de Servicios Geográficos**<br>
+ **Dirección de Información Geoespacial**<br>
+ **Departamento de Aplicaciones Geoespaciales**<br>
 
 El mapa de cobertura del uso del suelo es un producto creado por el Instituto Geográfico Nacional (IGN) que busca representar una clasificación de cobertura del suelo para el territorio nacional. Por medio de imágenes satelitales ópticas, modelos digitales de elevación (MDE) e imágenes de radar de apertura sintética (SAR, por sus siglas en inglés), se calcularon distintos tipos de índices espectrales, se realizó la clasificación de 11 categorías de uso del suelo, a partir de la utilización del algoritmo Random Forest.
 
 Las categorías se asignaron teniendo en cuenta productos de cobertura preexistentes y el Catálogo de Objetos Geográficos institucional del IGN. La clasificación se realiza teniendo en cuenta 11 categorías, y luego se agregan 2 categorías: Planta Urbana, que proviene de la Base de datos Geográfica Institucional del IGN y la categoría Glaciar proveniente del Inventario Nacional de Glaciares.
 
-Categorías:
+**Categorías:**
 1. Cuerpos de Agua 
 2. Nieve 
 3. Bosque, selva 
