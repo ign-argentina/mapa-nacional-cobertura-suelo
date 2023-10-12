@@ -1,6 +1,6 @@
 # Mapa Nacional de Cobertura del suelo - Argentina
 
-![Static Badge](https://img.shields.io/badge/licencia-MIT-red)  ![Static Badge](https://img.shields.io/badge/fecha_de_publicacion-agosto_2023-blue) ![Static Badge](https://img.shields.io/badge/version-1.0-yellow)
+![Static Badge](https://img.shields.io/badge/licencia-MIT-red)  ![Static Badge](https://img.shields.io/badge/fecha_de_publicacion-octubre_2023-blue) ![Static Badge](https://img.shields.io/badge/version-1.0-yellow)
 
 ![Mapa Nacional de Cobertura del Suelo](imagen.png)
 
